@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Preprocesamiento:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Preprocesamiento_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Preprocesamiento.jar">
+        <element id="module-output" name="Preprocesamiento" />
+      </element>
+      <element id="library" level="project" name="tika-app-1.15" />
+    </root>
+  </artifact>
+</component>
